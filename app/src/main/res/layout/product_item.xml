@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:background="@color/white"
+    android:divider="@color/purple_700"
+    android:dividerPadding="5dp"
+    android:elevation="5dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Product Title"
+        android:textColor="#6E2C90"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Date Of Purchase"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Product Description"
+        android:textColor="@color/black"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="MRP"
+        android:textColor="#E40606" />
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="SP"
+        android:textColor="#0C2DE4" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BuySell</string>
+    <string-array name="city" >
+        <item>Kota</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Delhi</item>
+        <item>Nanital</item>
+        <item>Patna</item>
+        <item>Kerala</item>
+
+
+    </string-array>
+</resources>

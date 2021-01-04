@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520930519367",
+    "project_id": "buysell-0212",
+    "storage_bucket": "buysell-0212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520930519367:android:cd9707aae131a4048d4462",
+        "android_client_info": {
+          "package_name": "com.example.buysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520930519367-1vf6uu0rim87onc74qsno9k3853osc8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaCsgm_6xrvYkxQXEBCsF9WogSbfL63Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520930519367-1vf6uu0rim87onc74qsno9k3853osc8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
